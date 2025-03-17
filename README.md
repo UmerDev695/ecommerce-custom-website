@@ -35,4 +35,4 @@ A fully custom WordPress eCommerce website built using WooCommerce. This project
 - Product & order management setup
 
 **More Projects:**  
-Check out my other work on my [GitHub Profile]()
+Check out my other work on my [GitHub Profile](https://github.com/UmerDev695)
